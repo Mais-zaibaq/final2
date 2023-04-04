@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">final2</string>
+    <string name="skip">skip</string>
+    <string name="next">next</string>
+    <string name="text_1">NEVER STOP LEARNING \n \n  Expand your child`s knowledge /n across the board</string>
+    <string name="text_2">"complete courses \n \n Easy to enroll course and complete with in a short time "</string>
+    <string name="text_3">Multiple fields and languages \n \n The application provides education for /n several languages</string>
+    <string name="forget_pass">forgot passward?</string>
+    <string name="tv_regester_1">d</string>
+    <string name="userName">Email</string>
+    <string name="pass">password</string>
+    <string name="login">login</string>
+    <string name="tv_regester_2">ctreat new account</string>
+    <string name="send">send</string>
+    <string name="s">Enter your email and will send \n you instructions on how to reset it</string>
+    <string name="regester">d</string>
+    <string name="phone">email</string>
+    <string name="reset_passa" />
+    <string name="reset_pass">confirm password</string>
+    <string name="tv_login_1">x</string>
+    <string name="tv_login_2">Already have an account?</string>
+    <string name="tv_login_3"> log in</string>
+    <string name="a">sign up</string>
+    <string name="search">search</string>
+    <string name="n1">s</string>
+    <string name="n2">as</string>
+    <string name="sk">s</string>
+    <string name="t">business</string>
+    <string name="t1">design</string>
+    <string name="t2">science</string>
+    <string name="t3">art</string>
+    <string name="t4">popular courses</string>
+    <string name="notification">Notification</string>
+    <string name="te1">new class available from \n your favorite UX design</string>
+    <string name="tx2">congratulation you just\n earned a new achievement badge</string>
+    <string name="tx3">New course available this week related to /n front-end development</string>
+    <string name="Name">Name</string>
+    <string name="heart">س</string>
+    <string name="buy">س</string>
+    <string name="user">ش</string>
+    <string name="home">شس</string>
+    <string name="notification1">sa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

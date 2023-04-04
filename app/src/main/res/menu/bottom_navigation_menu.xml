@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home_selector"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/noti"
+        android:enabled="true"
+        android:icon="@drawable/ic_notification_selector"
+        android:title="@string/notification1" />
+    <item
+        android:id="@+id/buy"
+        android:enabled="true"
+        android:icon="@drawable/ic_buy_selector"
+        android:title="@string/buy" />
+
+    <item
+        android:id="@+id/fav"
+        android:enabled="true"
+        android:icon="@drawable/ic_heart_selector"
+        android:title="@string/heart" />
+
+    <item
+        android:id="@+id/user"
+        android:enabled="true"
+        android:icon="@drawable/ic_person_selector"
+        android:title="@string/user" />
+</menu>
