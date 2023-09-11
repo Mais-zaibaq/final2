@@ -42,4 +42,8 @@
     <string name="notification1">sa</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lll">Enter The Following Data</string>
+    <string name="ll">the description</string>
+    <string name="us">talk about yourself \n and about your skills</string>
+    <string name="mmmm">choose your role</string>
 </resources>
